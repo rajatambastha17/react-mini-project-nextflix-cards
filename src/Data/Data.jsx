@@ -29,6 +29,12 @@ const DATA = [
     seriesName: "Brooklyn Nine-Nine",
     watchLink: "https://www.netflix.com/in/title/70281562",
   },
+  {
+    imageSource: "https://wallpapercave.com/wp/wp2473084.jpg",
+    category: "A Netflix original series",
+    seriesName: "Brooklyn Nine-Nine",
+    watchLink: "https://www.netflix.com/in/title/70281562",
+  },
 ];
 
 export default DATA;
